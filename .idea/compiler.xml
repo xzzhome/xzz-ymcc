@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ymcc-service-uaa" />
+        <module name="ymcc-pojo-system" />
+        <module name="xzz-gen-code" />
+        <module name="ymcc-service-system" />
+        <module name="ymcc-service-gateway" />
+        <module name="ymcc-api-uaa" />
+        <module name="ymcc-basic-dependency" />
+        <module name="xzz-basic-common" />
+        <module name="ymcc-api-system" />
+        <module name="ymcc-basic-common" />
+        <module name="ymcc-pojo-user" />
+        <module name="ymcc-pojo-uaa" />
+        <module name="ymcc-service-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ymcc-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
